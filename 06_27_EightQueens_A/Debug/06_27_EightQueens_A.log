@@ -1,0 +1,3 @@
+﻿  main.c
+E:\C How to program\06_27_EightQueens_A\main.c(28,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  06_27_EightQueens_A.vcxproj -> E:\C How to program\Debug\06_27_EightQueens_BruteForce_A.exe

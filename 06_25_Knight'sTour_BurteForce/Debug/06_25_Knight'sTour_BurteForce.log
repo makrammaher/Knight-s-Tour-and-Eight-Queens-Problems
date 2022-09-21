@@ -1,0 +1,3 @@
+﻿  main.c
+E:\C How to program\06_25_Knight'sTour_BurteForce\main.c(35,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  06_25_Knight'sTour_BurteForce.vcxproj -> E:\C How to program\Debug\06_25_Knight'sTour_BurteForce.exe
